@@ -1,15 +1,32 @@
 {
   "version": 2,
-  "dgSpecHash": "TexgjB/UxlblomdnwZGYuGraMQoe6YOQ10yZTidelrS3vxjTJ3cx0GNYvGfSD4CBtDKoqBd9TEGw/iQO1UCF+Q==",
+  "dgSpecHash": "+VcK6W4aKulm5f4u2eSLiQfrW/sJzYY22AvQxqIg0qsnZjYiFforrw6hfhKt9uG/OYgOR9vhLv+lHH1XsHWrBg==",
   "success": true,
   "projectFilePath": "/home/paulodhiambo/RiderProjects/ContoPizza/ContoPizza.csproj",
   "expectedPackageFiles": [
+    "/home/paulodhiambo/.nuget/packages/microsoft.entityframeworkcore/6.0.0-preview.5.21301.9/microsoft.entityframeworkcore.6.0.0-preview.5.21301.9.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.0-preview.5.21301.9/microsoft.entityframeworkcore.abstractions.6.0.0-preview.5.21301.9.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.0-preview.5.21301.9/microsoft.entityframeworkcore.analyzers.6.0.0-preview.5.21301.9.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/microsoft.entityframeworkcore.inmemory/5.0.7/microsoft.entityframeworkcore.inmemory.5.0.7.nupkg.sha512",
     "/home/paulodhiambo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0-preview.5.21301.5/microsoft.extensions.caching.abstractions.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/microsoft.extensions.caching.memory/6.0.0-preview.5.21301.5/microsoft.extensions.caching.memory.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0-preview.5.21301.5/microsoft.extensions.dependencyinjection.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0-preview.5.21301.5/microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/microsoft.extensions.logging/6.0.0-preview.5.21301.5/microsoft.extensions.logging.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0-preview.5.21301.5/microsoft.extensions.logging.abstractions.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/microsoft.extensions.options/6.0.0-preview.5.21301.5/microsoft.extensions.options.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/microsoft.extensions.primitives/6.0.0-preview.5.21301.5/microsoft.extensions.primitives.6.0.0-preview.5.21301.5.nupkg.sha512",
     "/home/paulodhiambo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/home/paulodhiambo/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/home/paulodhiambo/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/home/paulodhiambo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "/home/paulodhiambo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "/home/paulodhiambo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/system.collections.immutable/6.0.0-preview.5.21301.5/system.collections.immutable.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0-preview.5.21301.5/system.diagnostics.diagnosticsource.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/paulodhiambo/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0-preview.5.21301.5/system.runtime.compilerservices.unsafe.6.0.0-preview.5.21301.5.nupkg.sha512"
   ],
   "logs": []
 }
