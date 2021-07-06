@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using ContoPizza.Models;
+using Microsoft.Extensions.Logging;
 
 namespace ContoPizza.Services
 {
@@ -13,8 +14,8 @@ namespace ContoPizza.Services
         {
             Pizzas = new List<Pizza>
             {
-                new Pizza {Id = 1, Name = "Classic Italian", IsGlutenFree = false},
-                new Pizza {Id = 2, Name = "Veggie", IsGlutenFree = true}
+                new() {Id = 1, Name = "Classic Italian", IsGlutenFree = false},
+                new() {Id = 2, Name = "Veggie", IsGlutenFree = true}
             };
         }
 

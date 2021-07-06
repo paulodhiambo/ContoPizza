@@ -27,3 +27,17 @@
 /home/paulodhiambo/RiderProjects/ContoPizza/obj/Debug/net5.0/ref/ContoPizza.dll
 /home/paulodhiambo/RiderProjects/ContoPizza/obj/Debug/net5.0/ContoPizza.pdb
 /home/paulodhiambo/RiderProjects/ContoPizza/obj/Debug/net5.0/ContoPizza.genruntimeconfig.cache
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/System.Collections.Immutable.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/paulodhiambo/RiderProjects/ContoPizza/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll

@@ -14,7 +14,22 @@ namespace ContoPizza.Models
         }
 
         public List<Pizza> getPizzas() => Pizzas.Local.ToList<Pizza>();
-        
+
+        public void AddPizza(Pizza pizza)
+        {
+            Pizzas.Add(pizza);
+            SaveChanges();
+        }
+
+        public void DeletePizza(int id)
+        {
+            var pizzaToRemove = Pizzas.Find(id);
+            if (pizzaToRemove == null)
+                return;
+            Pizzas.Remove(pizzaToRemove);
+            SaveChanges();
+        }
+
 
         private void LoadDefaultPizzas()
         {
